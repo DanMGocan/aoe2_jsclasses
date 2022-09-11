@@ -1,0 +1,11 @@
+{
+  "name": "ao2assistant_test",
+  "version": "1.0.0",
+  "description": "Trying and testing, how not to suffer anymore",
+  "main": "classes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Gocan",
+  "license": "ISC"
+}
